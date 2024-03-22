@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T22:59:01.435Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="d-NDktYVHnJExh8-Apha" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T23:06:28.321Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="mVlWD29dNS7xxKhlF9WJ" version="24.0.8" type="github">
   <diagram name="Page-1" id="TOZ1hOZQSgg3AGNhHM2i">
     <mxGraphModel dx="2854" dy="1313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,6 +37,9 @@
         <mxCell id="0AffyZnKiyHTDzDrtZp8-3" value="Adventure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AffyZnKiyHTDzDrtZp8-4" target="0AffyZnKiyHTDzDrtZp8-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0AffyZnKiyHTDzDrtZp8-4" value="Puzzle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -46,14 +49,53 @@
         <mxCell id="0AffyZnKiyHTDzDrtZp8-6" value="Simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="0AffyZnKiyHTDzDrtZp8-7" target="0AffyZnKiyHTDzDrtZp8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0AffyZnKiyHTDzDrtZp8-7" value="Strategy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0AffyZnKiyHTDzDrtZp8-8" value="Sports" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AffyZnKiyHTDzDrtZp8-9" target="0AffyZnKiyHTDzDrtZp8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AffyZnKiyHTDzDrtZp8-9" target="0AffyZnKiyHTDzDrtZp8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AffyZnKiyHTDzDrtZp8-9" target="0AffyZnKiyHTDzDrtZp8-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AffyZnKiyHTDzDrtZp8-9" target="0AffyZnKiyHTDzDrtZp8-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AffyZnKiyHTDzDrtZp8-9" target="0AffyZnKiyHTDzDrtZp8-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0AffyZnKiyHTDzDrtZp8-9" target="0AffyZnKiyHTDzDrtZp8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0AffyZnKiyHTDzDrtZp8-9" value="Other" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-18" value="Board Games" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-19" value="Card Games" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-20" value="Gatcha Games" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-22" value="Party Game" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-23" value="Photography" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AffyZnKiyHTDzDrtZp8-24" value="Social Deduction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-545" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
