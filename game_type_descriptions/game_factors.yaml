@@ -1,0 +1,96 @@
+Video_Game_Genres:
+  Action:
+    Key_Factors: [Reflexes, Coordination, Decision speed, Agility]
+    Subgenres:
+      Shooter:
+        Factors: [Aiming, Positioning, Cover tactics, Ammunition management]
+      Fighting:
+        Factors: [Combo execution, Opponent prediction, Character mastery]
+      Platformer:
+        Factors: [Timing, Spatial navigation, Environmental interaction, Dexterity]
+      Beat 'em Up:
+        Factors: [Crowd management, Stamina control, Cooperative play]
+      Stealth:
+        Factors: [Detection avoidance, Stealth navigation, Silent execution, Combat balance]
+      Souls-like:
+        Factors: [Risk-reward combat, Stamina focus]
+      Metroidvania:
+        Factors: [Explorative progression, Ability gating, Backtracking]
+
+  Adventure:
+    Key_Factors: [Story depth, Reward for exploration, Puzzles, Interaction]
+    Subgenres:
+      Point-and-Click:
+        Factors: [Item usage, Clue integration, Narrative branches]
+      Visual Novel:
+        Factors: [Narrative choices, Emotional depth, Outcome diversity]
+      Text Adventure:
+        Factors: [Command interpretation, Story-driven commands, Detailed descriptions]
+
+  Role_Playing_Games_RPG:
+    Key_Factors: [Character growth, World immersion, Strategic development]
+    Subgenres:
+      Action RPG:
+        Factors: [Real-time combat, Skill dynamics, World interaction]
+      Turn-Based RPG:
+        Factors: [Encounter tactics, Party synergy, Turn-based strategy]
+      MMORPG:
+        Factors: [Social dynamics, World persistence, Economic systems]
+      Tactical RPG:
+        Factors: [Grid tactics, Positional strategy, Team coordination]
+      JRPG:
+        Factors: [Story focus, Ensemble cast, Cultural elements]
+
+  Simulation:
+    Key_Factors: [Realism, System depth, Scenario creation]
+    Subgenres:
+      Life Simulation:
+        Factors: [Life management, Social interaction, Career paths]
+      Flight Simulators:
+        Factors: [Flight mechanics, Navigation, Weather adaptation]
+      Construction and Management Simulation:
+        Factors: [Resource management, Infrastructure planning, Economic strategy]
+      Vehicle Simulation:
+        Factors: [Control accuracy, Physics interaction, Career management]
+
+  Strategy:
+    Key_Factors: [Decision making, Resource control, Tactical adaptation]
+    Subgenres:
+      Real-Time Strategy (RTS):
+        Factors: [Unit control, Resource exploitation, Enemy anticipation]
+      Turn-Based Strategy:
+        Factors: [Turn planning, Resource prediction, Positioning strategy]
+      4X Strategy:
+        Factors: [Exploration, Expansion, Exploitation, Extermination]
+
+  Sports:
+    Key_Factors: [Skill simulation, Rule adherence, Team play]
+    Subgenres:
+      Team Sports:
+        Factors: [Team strategy, Player specialization, League management]
+      Racing:
+        Factors: [Driving techniques, Track knowledge, Vehicle tuning]
+
+  Puzzle:
+    Key_Factors: [Problem resolution, Analysis, Pattern identification]
+    Subgenres:
+      Logic Puzzle:
+        Factors: [Reasoning, Solution mapping, Cognitive demand]
+      Tile-Matching:
+        Factors: [Pattern recognition, Strategic placement, Time management]
+
+  Horror:
+    Key_Factors: [Atmospheric tension, Suspense, Fear management]
+    Subgenres:
+      Survival Horror:
+        Factors: [Resource scarcity, Threat evasion, Psychological impact]
+      Psychological Horror:
+        Factors: [Narrative depth, Mental engagement, Perception challenges]
+
+  Sandbox:
+    Key_Factors: [Creativity expression, Open exploration, User content]
+    Subgenres:
+      Open World:
+        Factors: [Quest variability, Interactive environments, Dynamic storytelling]
+      Creative Building:
+        Factors: [Construction creativity, Resource utilization, Landscape design]
