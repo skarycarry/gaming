@@ -126,3 +126,6 @@ Dynamic storytelling
 Construction creativity
 Resource utilization
 Landscape design
+Party interaction in battle
+Party interaction in story
+Environmental interaction

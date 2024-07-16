@@ -1,0 +1,113 @@
+#Overarching Axes: Difficulty, Speed of play, 
+
+Video_Game_Genres:
+  Action:
+    Key_Factors: 
+    Subgenres:
+      Third-Person-Shooters:
+        Examples: [Gears of War, RDR2, Resident Evil 4, Days Gone, Dead Space, Tomb Raider, Control, Hitman, Last of Us, Fortnite, Mass Effect, GTA5, Battlefront]
+        Factors: [Weapon Choice, Shooting Enhancements, Ammo Abundance, Cover Mechanics, Engagement Strategy]
+      First-Person-Shooters:
+        Examples: [COD, Doom, Valorant, Half-Life 2, Far Cry, Borderlands, Superhot, Halo, Cyberpunk, Fallout]
+        Factors: [Weapon Choice, High Focus, Scope Utilization, Cover Mechanics, Tactical Variety]
+      Fighting:
+        Examples: [Mortal Kombat, Injustice, Tekken, Street Fighter]
+        Factors: [Combos, Strategic Advantage]
+      Platformer:
+        Examples: [Mario, Donkey Kong, Lego, Sonic]
+        Factors: [Dexterity, Jump Mechanics]
+        Subgenres:
+          Metroidvania: 
+            Examples: [Metroid, Castlevania, Hollow Knight, Ori]
+            Factors: [Map Complexity, Ability Progression]
+      First-Person-Melee:
+        Examples: [Skyrim, Cyberpunk, Dishonored]
+        Factors: [Weapon Choice, Enemy AI, High Focus, Escape Mechanics]
+      Third-Person-Melee:
+        Examples: [Dark Souls, Ghost of Tsushima, Arkham, Bayonetta, Spider-Man, Shadow of Mordor, Fallen Order]
+        Factors: [Lock on, Enemy View, Enemy AI]
+      Beat 'em Up:
+        Examples: [Castle Crashers, Sifu]
+        Factors: []
+      Stealth:
+        Examples: [Dishonored, Metal Gear Solid, Last of Us, Hitman, Splinter Cell]
+        Factors: [Advantage of Stealth, Alert Ability]
+
+  Adventure:
+    Subgenres:
+      Point-and-Click:
+        Examples: [Myst]
+      Visual Novel:
+        Examples: [Telltale, Doki Doki Literature Club, Ace Attorney]
+        Factors: [Choice Impact]
+      Text Adventure:
+        Examples: []
+        
+
+  Role_Playing_Games_RPG:
+    Key_Factors: 
+    Subgenres:
+      Action RPG:
+        Examples: [Skyrim, Hogwarts Legacy, Witcher, Diablo 3, Mass Effect, NieR Automata, Cyberpunk, Elden Ring, Horizon Zero Dawn, Ghost of Tsushima]
+        Factors: [Combat Playstyle Choice, Requirements for Multiple Playstyles, Ability Level Up]
+      Turn-Based RPG:
+        Examples: [Persona 3, Pokemon, Final Fantasy]
+        Factors: [Type Advantage, Ability Expansion]
+      MMORPG:
+        Examples: [Runescape, WOW]
+        Factors: [Ability Choice]
+      Tactical RPG:
+        Examples: [Baldurs Gate, Fire Emblem, Xcom]
+        Factors: [Team Strategy, Ability Expansion/Level Up, Environmental Interaction, Enemy AI]
+
+  Simulation:
+    Key_Factors:
+    Subgenres:
+      Life Simulation:
+        Examples: [Sims]
+        Factors: [Sim AI, Breadth of Choices, Realism]
+      Construction and Management Simulation:
+        Examples: [Rollercoaster Tycoon, Zoo Tycoon]
+        Factors: []
+
+  Strategy:
+    Key_Factors:
+    Subgenres:
+      Real-Time Strategy (RTS): 
+        Examples: [Age of Empires, StarCraft]
+        Factors: [Resource Balance, Unit Cost, Unit Development]
+      Turn-Based Strategy:
+        Examples: [Civ 5, Total War Series, CK]
+        Factors: [Resource Balance, Unit Cost, Unit Development]
+      4X Strategy:
+        Examples: [Civ 5, Stellaris]
+        Factors: [Resource Balance, Unit Cost, Unit Development]
+
+  Sports:
+    Key_Factors: 
+    Subgenres:
+      Team Sports:
+        Examples: [NCAA, Madden, NHL, FIFA]
+        Factors: [Realism, Physics Dynamics, Strategy Ownership] 
+      Racing:
+        [Burnout]
+        Factors: [big fast]
+
+  Puzzle:
+    Key_Factors:
+    Subgenres:
+      Logic Puzzle:
+        Examples: [Portal, Baba Is You, Return of the Obra Dinn, Gorogoa, Opus Magnum]
+        Factors: [Sequential Thinking]
+
+  Horror:
+    Key_Factors: 
+    Subgenres:
+      Survival Horror:
+        Examples: [Resident Evil, Silent Hill]
+        Factors: [Resource Amount, Enemy Difficulty, Punishment for Failure]
+      Psychological Horror:
+        Examples: []
+      
+  Unclassified:
+    Examples: [Outer Wilds, Pedro, Firewatch, Ape Out]

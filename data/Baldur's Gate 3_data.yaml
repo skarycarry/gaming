@@ -1,0 +1,86 @@
+2D:
+  Factors:
+    Artistic Style: 0
+3D:
+  Factors:
+    Immersion: 3
+    Realism: 9
+  First-Person:
+    Factors:
+      Immersion Intensity: 0
+  Third-Person:
+    Factors:
+      Character Mechanic Complexity: 1
+      Cinematography: 5
+Grand-Strategy:
+  Factors:
+    Resource Balance: 0
+    Unit Development: 0
+Guns:
+  Factors:
+    Ammo Management: 0
+    Cover Mechanics: 0
+    New Weapon Attainability: 0
+    Variety of Weapons/Abilities Incentivized: 0
+    Weapon Choice (Meta): 0
+    Weapon Enhancements: 0
+Horror:
+  Factors:
+    Punishment for Failure: 2
+    Resource Scarcity: 0
+Melee:
+  Factors:
+    Brawl Complexity: 0
+    Duel Complexity: 0
+    Ease of Escape: 0
+    Enemy Opening Length: 0
+    Enemy Predictability: 0
+    Enemy Variety: 0
+    Lock On: 0
+    Reaction Time: 0
+    Weapon Advantage: 0
+Open-World:
+  Factors:
+    Crafting Diversity: 7
+    Crafting Material Abundance: 5
+    Exploration Advantage: 10
+    World/Story Integration: 5
+Overarching:
+  Combat Stage Design: 9
+  Decision Speed: 1
+  Difficulty: 7
+  Enemy AI: 9
+  Focus Required: 4
+  Impact/Cost of Decisions: 8
+  Map Complexity: 6
+  Overall: 10
+  Playfulness: 6
+  Progression: 7
+  Repetitiveness: 2
+  Sound Design: 10
+  Strategy: 10
+Puzzle:
+  Factors:
+    Sequential Thinking Puzzles: 6
+RPG:
+  Factors:
+    Combat Choice: 10
+    Equip Impact: 10
+    Item Impact: 9
+    Level Up Choice: 10
+    Weakness Exploitation: 7
+Sim:
+  Factors:
+    Choice Effect: 0
+    Realism: 0
+    Simulated AI: 0
+Sports:
+  Factors:
+    Outcome Ownership: 0
+    Physics Dynamics: 0
+    Realism: 0
+Stealth:
+  Factors:
+    Alert Response: 8
+    Enemy Detection AI: 8
+    Stealth Incentivization: 5
