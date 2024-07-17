@@ -33,6 +33,7 @@ class FactorApp:
 
         self.create_widgets()
         self.root.title(self.window_title)
+        self.load_existing_data()
 
     def load_yaml_data(self, yaml_path):
         if os.path.exists(yaml_path):
@@ -110,3 +111,22 @@ class FactorApp:
             yaml.dump(save_data, file)
 
         messagebox.showinfo("Save", f"Data saved to {save_path}")
+
+    def load_existing_data(self):
+        load_path = Path(__file__).parent.parent / 'data' / f'{self.window_title}_data.yaml'
+        if os.path.exists(load_path):
+            with open(load_path, 'r') as file:
+                existing_data = yaml.safe_load(file)
+                self.populate_entries(existing_data)
+
+    def populate_entries(self, existing_data):
+        for path, factor, entry in self.entries:
+            parts = path.split('/')
+            d = existing_data
+            try:
+                for part in parts:
+                    d = d[part]
+                if factor in d:
+                    entry.insert(0, str(d[factor]))
+            except KeyError:
+                continue

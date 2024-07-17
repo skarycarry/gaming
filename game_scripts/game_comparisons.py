@@ -18,7 +18,7 @@ class ComparisonApp:
     def load_csv(self):
         if not os.path.exists(self.csv_path):
             # Create a new CSV file with a 1x1 matrix
-            df = pd.DataFrame({self.title: [100]}, index=[self.title])
+            df = pd.DataFrame({self.title: [10]}, index=[self.title])
             df.to_csv(self.csv_path)
             messagebox.showinfo("CSV Created", f"CSV created with a single entry for {self.title}")
         else:
@@ -71,8 +71,8 @@ class ComparisonApp:
             for col in new_data:
                 self.df.at[col, title] = new_data[col]
 
-            # Set the diagonal element to 100
-            self.df.at[title, title] = 100
+            # Set the diagonal element to 10
+            self.df.at[title, title] = 10
 
         self.df.to_csv(self.csv_path)
         messagebox.showinfo("Save", f"Data saved to {self.csv_path}")

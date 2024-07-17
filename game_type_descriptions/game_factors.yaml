@@ -1,8 +1,8 @@
-Overarching: [Overall, Decision Speed (High=Fast/Low=Slow), Impact/Cost of Decisions, Recovery from Mistakes (High=Easy/Low=Hard), Difficulty, Combat Stage Design, Strategy Complexity, Focus Required, Map Complexity, Progression (High=Well Adjusted/Low=Poorly Adjusted), Enemy AI, Playfulness, Sound Design, Repetitiveness, Balance of Combat, Problem Variety, Control Feel]
+Overarching: [Overall, Decision Speed (High=Fast/Low=Slow), Impact/Cost of Decisions, Recovery from Mistakes (High=Easy/Low=Hard), Difficulty, Combat Stage Design, Strategy Complexity, Focus Required, Map Complexity, Progression (High=Well Adjusted/Low=Poorly Adjusted), Enemy AI, Playfulness, Sound Design, Repetitiveness, Balance of Combat, Problem Variety, Control Feel, World Building, Depth of Lore]
 
 Shooter:
   Factors: [Meta Weapon Choice Balance, Weapon Enhancements, Ammo Management, Variety of Weapons/Abilities Incentivized, New Weapon Attainability]
-Action:s
+Action:
   Factors: [Lock On, Meta Weapon Choice Balance, Ease of Escape, Duel Complexity, Brawl Complexity, Enemy Predictability, Reaction Time, Enemy Opening Length, Ranged vs Melee Power (High=Well Balanced)]
 Stealth: 
   Factors: [Stealth Incentivization, Enemy Detection AI, Alert Response, Alert Punishment (High=Punishing)]
@@ -10,6 +10,8 @@ RPG:
   Factors: [Combat Choice, Level Up Choice, Item Impact, Equip Impact]
 Open-World:
   Factors: [Exploration Advantage, World/Story Integration, Crafting Diversity, Crafting Material Abundance, Prominance of Locations]
+Themes:
+  Factors: [Story Impact, Story Depth, Story Length, Story Complexity, Story Choice]
 Sim:
   Factors: [Simulated AI, Realism, Choice Effect]
 Grand-Strategy:

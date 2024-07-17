@@ -1,0 +1,105 @@
+2D:
+  Factors:
+    Artistic Style: 10
+3D:
+  Factors:
+    Immersion: 0
+    Realism: 0
+  First-Person:
+    Factors:
+      Gameplay Pace: 0
+      Immersion Intensity: 0
+      Precision and Control: 0
+      Situational Awareness: 0
+  Third-Person:
+    Factors:
+      Character Connection: 0
+      Character Mechanic Complexity: 0
+      Cinematography: 0
+      Positioning: 0
+      Spatial Awareness: 0
+Action:
+  Factors:
+    Brawl Complexity: 0
+    Duel Complexity: 0
+    Ease of Escape: 0
+    Enemy Opening Length: 0
+    Enemy Predictability: 0
+    Lock On: 0
+    Meta Weapon Choice Balance: 0
+    Ranged vs Melee Power (High=Well Balanced): 0
+    Reaction Time: 0
+Grand-Strategy:
+  Factors:
+    Resource Balance: 0
+    Unit Development: 0
+Horror:
+  Factors:
+    Punishment for Failure: 0
+    Resource Scarcity: 0
+Open-World:
+  Factors:
+    Crafting Diversity: 4
+    Crafting Material Abundance: 8
+    Exploration Advantage: 10
+    Prominance of Locations: 10
+    World/Story Integration: 10
+Overarching:
+  Balance of Combat: 0
+  Combat Stage Design: 0
+  Control Feel: 7
+  Decision Speed (High=Fast/Low=Slow): 1
+  Depth of Lore: 0
+  Difficulty: 3
+  Enemy AI: 0
+  Focus Required: 2
+  Impact/Cost of Decisions: 7
+  Map Complexity: 2
+  Overall: 8
+  Playfulness: 6
+  Problem Variety: 7
+  Progression (High=Well Adjusted/Low=Poorly Adjusted): 9
+  Recovery from Mistakes (High=Easy/Low=Hard): 5
+  Repetitiveness: 6
+  Sound Design: 7
+  Strategy Complexity: 7
+  World Building: 0
+Puzzle:
+  Factors:
+    Sequential Thinking: 0
+RPG:
+  Factors:
+    Combat Choice: 0
+    Equip Impact: 0
+    Item Impact: 0
+    Level Up Choice: 0
+Shooter:
+  Factors:
+    Ammo Management: 0
+    Meta Weapon Choice Balance: 0
+    New Weapon Attainability: 0
+    Variety of Weapons/Abilities Incentivized: 0
+    Weapon Enhancements: 0
+Sim:
+  Factors:
+    Choice Effect: 0
+    Realism: 0
+    Simulated AI: 0
+Sports:
+  Factors:
+    Outcome Ownership: 0
+    Physics Dynamics: 0
+    Realism: 0
+Stealth:
+  Factors:
+    Alert Punishment (High=Punishing): 0
+    Alert Response: 0
+    Enemy Detection AI: 0
+    Stealth Incentivization: 0
+Themes:
+  Factors:
+    Story Choice: 3
+    Story Complexity: 5
+    Story Depth: 10
+    Story Impact: 10
+    Story Length: 8
